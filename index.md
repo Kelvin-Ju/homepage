@@ -28,9 +28,9 @@ I’m now a Ph.D. candidate of the Department of Computer Science and Technology
 
 ### Research Experience
 
-- *2021.Jan. – 2021.Jul.*: Research Assistant at the Department of Electronic and Information Engineering (EIE), The Hong Kong Polytechnic University, supervised by Prof. [Kenneth Kin-Man Lam](http://www.eie.polyu.edu.hk/~enkmlam/) (*SrM IEEE*).
+- *2021. Jan. – 2021. Jul.*: Research Assistant at the Department of Electronic and Information Engineering (EIE), The Hong Kong Polytechnic University, supervised by Prof. [Kenneth Kin-Man Lam](http://www.eie.polyu.edu.hk/~enkmlam/) (*SrM IEEE*).
 
-- *2020.Sept. – 2020.Dec.*: Visiting Ph.D. student (Remote) at the WangXuan Institute of Computer Technology, Peking University, supervised by Prof. [Yuxin Peng](http://59.108.48.34/tiki/pengyuxin/) (*SrM IEEE*).
+- *2020. Sept. – 2020. Dec.*: Visiting Ph.D. student (Remote) at the WangXuan Institute of Computer Technology, Peking University, supervised by Prof. [Yuxin Peng](http://59.108.48.34/tiki/pengyuxin/) (*SrM IEEE*).
 
 ### Mainly Publications
 
@@ -38,8 +38,9 @@ I’m now a Ph.D. candidate of the Department of Computer Science and Technology
 - **Recovering Surface Normal and Arbitrary Images: A Dual Regression Network for Photometric Stereo **
 **Yakun Ju**, Junyu Dong, Sheng Chen
 IEEE Transactions on Image Processing (*TIP*) 
-\[CCF A-rank\]  \[[PDF](https://github.com/Kelvin-Ju/homepage/blob/gh-pages/TIP2021.pdf)\] \[[DOI](https://ieeexplore.ieee.org/abstract/document/9376632)\]
+\[CCF A-rank\] \[[DOI](https://ieeexplore.ieee.org/abstract/document/9376632)\]  \[[PDF](https://github.com/Kelvin-Ju/homepage/blob/gh-pages/TIP2021.pdf)\]
 
-
-
-
+- **Incorporating Lambertian Priors Into Surface Normals Measurement**
+**Yakun Ju**, Muwei Jian, Shaoxiang Guo, Yingyu Wang, Huiyu Zhou, Junyu Dong
+IEEE Transactions on Instrumentation and Measurement  (*TIM*)
+\[[arXiv](https://arxiv.org/abs/2107.07192)\] \[[DOI](https://ieeexplore.ieee.org/abstract/document/9481150)\] \[[PDF](https://github.com/Kelvin-Ju/homepage/blob/gh-pages/TIM2021.pdf)\]

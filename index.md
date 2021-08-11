@@ -37,7 +37,8 @@ I’m now a Ph.D. candidate of the Department of Computer Science and Technology
 #### Academic Journals
 - **Recovering Surface Normal and Arbitrary Images: A Dual Regression Network for Photometric Stereo **
 **Yakun Ju**, Junyu Dong, Sheng Chen
-IEEE Transactions on Image Processing (*TIP*) \[CCF A-rank\] [PDF](https://github.com/Kelvin-Ju/homepage/blob/gh-pages/TIP2021.pdf) / [DOI](https://ieeexplore.ieee.org/abstract/document/9376632)
+IEEE Transactions on Image Processing (*TIP*) 
+CCF A-rank / [PDF](https://github.com/Kelvin-Ju/homepage/blob/gh-pages/TIP2021.pdf) / [DOI](https://ieeexplore.ieee.org/abstract/document/9376632)
 
 
 

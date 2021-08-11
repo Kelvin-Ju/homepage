@@ -30,7 +30,14 @@ I’m now a Ph.D. candidate of the Department of Computer Science and Technology
 
 - *2021.  Jan. – 2021.  Jul.*: Research Assistant at the Department of Electronic and Information Engineering (EIE), The Hong Kong Polytechnic University, supervised by Prof. [Kenneth Kin-Man Lam](http://www.eie.polyu.edu.hk/~enkmlam/) (*SrM IEEE*).
 
-- *2020. &ensp; Sept. – 2020. &ensp; Dec.*: Visiting Ph.D. student (Remote) at the WangXuan Institute of Computer Technology, Peking University, supervised by Prof. [Yuxin Peng](http://59.108.48.34/tiki/pengyuxin/) (*SrM IEEE*).
+- *2020. Sept. – 2020. Dec.*: Visiting Ph.D. student (Remote) at the WangXuan Institute of Computer Technology, Peking University, supervised by Prof. [Yuxin Peng](http://59.108.48.34/tiki/pengyuxin/) (*SrM IEEE*).
+
+### Invited Talk
+
+- **Research on Data-Driven Photometric Stereo (数据驱动光度立体相关进展研究)**   
+In 2021 IJCAI-SAIA Young Elite Symposium (*IJCAI-SAIA YES*), Shanghai, China, 2021, July.
+\[[Website](http://www.ijcai-saia-yes.org.cn/)\]  \[[News](https://mp.weixin.qq.com/s/K67lmIvbp1Ojy26MSnStSw)\]   \[[video](https://www.bilibili.com/video/BV1jh41167JV?from=search&seid=15011617246000243912)\]
+
 
 ### Mainly Publications
 
@@ -61,5 +68,17 @@ Computational Visual Media (*CVMJ*) (Accept)
 **Yakun Ju**, Kin-Man Lam, Yang Chen, Lin Qi, Junyu Dong   
 Twenty-Ninth International Joint Conference on Artificial Intelligence (*IJCAI 2020*)   
 \[CCF A-rank\]  \[[DOI](https://www.ijcai.org/Proceedings/2020/0097)\] \[[PDF](https://github.com/Kelvin-Ju/homepage/blob/gh-pages/IJCAI2020.pdf)\]
+
+### Invention Patent
+- **A Single Frame Image 3D Reconstruction Device and Method Based on Deep Learning (一种基于深度学习的单帧图像三维重建装置及方法)**    
+**Yakun Ju**, Junyu Dong, Lin Qi, Liang Lu    
+Granted invention patent in China, 2017113024008   
+\[[Link](http://www.soopat.com/Patent/201711302400)\] \[[Patent](https://github.com/Kelvin-Ju/homepage/blob/gh-pages/Patent2021.pdf)\]
+
+
+
+
+
+
 
 

@@ -75,6 +75,14 @@ Twenty-Ninth International Joint Conference on Artificial Intelligence (*IJCAI 2
 Granted invention patent in China, 2017113024008   
 \[[Link](http://www.soopat.com/Patent/201711302400)\] \[[Patent](https://github.com/Kelvin-Ju/homepage/blob/gh-pages/Patent2021.pdf)\]
 
+### Scholarships & Honors
+
+- 2020 National Scholarship for Doctoral Students (CNY 30,000)
+- 2020 CSC Scholarship for Joint PhD Training Program (GBP 15,000)
+- 2020 Excellent achievement award for Postgraduates of Shandong Province (second-rank)
+- 2017 Goers Acoustic Scholarship (CNY 4,000)
+
+
 
 
 

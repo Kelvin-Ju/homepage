@@ -20,9 +20,19 @@
 
 I’m now a Ph.D. candidate of the Department of Computer Science and Technology, Ocean University of China, supervised by Prof. [Junyu Dong](http://ai-ouc.cn/faculty/dongjy.html), from 2016 (successive master-doctor program), [AI theroy group](http://ai-ouc.cn/tgroup/index.html). I earned my B.Sc. in Sichuan University, in 2016. My research interests focus on Image Processing, Computer Vision (3D reconstruction), and Deep Learning.
 
- ## News
+### News
  
-- 6 papers are under review, including 2 first-author (*IJCV*, *TIP*), 1 corresponding-author (*APIN*), and 3 co-author (*TIP*, *TCSVT*, *TCSVT*)
+- 6 papers are under review, including 2 first-author (*IJCV*, *TIP*), 1 corresponding-author (*APIN*), and 3 co-author (*TIP*, *TCSVT*, *TCSVT*).
+ 
 - 3 invention patents are under review.
+
+### Experience
+
+- 2021.01 – 2021.07: Research Assistant at the Department of Electronic and Information Engineering (EIE), The Hong Kong Polytechnic University, supervised by Prof. [Kenneth Kin-Man Lam](http://www.eie.polyu.edu.hk/~enkmlam/) (*SrM IEEE*).
+
+-2020.09 – 2020.12: Visiting Ph.D. student (Remote) at the WangXuan Institute of Computer Technology, Peking University, supervised by Prof. [Yuxin Peng](http://59.108.48.34/tiki/pengyuxin/) (*SrM IEEE*).
+
+
+
 
 

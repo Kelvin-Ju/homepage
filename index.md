@@ -18,4 +18,11 @@
 
 ### Biography
 
-I’m now a Ph.D. candidate of the Department of Computer Science and Technology, Ocean University of China, supervised by Prof. [Junyu Dong](http://ai-ouc.cn/faculty/dongjy.html), from 2016 (successive master-doctor program), [AI theroy group](http://ai-ouc.cn/tgroup/index.html). I earned my B.Sc. in Sichuan University, in 2016. My research interests mainly focus on Image Processing, Computer Vision (3D reconstruction), and Deep Learning.
+I’m now a Ph.D. candidate of the Department of Computer Science and Technology, Ocean University of China, supervised by Prof. [Junyu Dong](http://ai-ouc.cn/faculty/dongjy.html), from 2016 (successive master-doctor program), [AI theroy group](http://ai-ouc.cn/tgroup/index.html). I earned my B.Sc. in Sichuan University, in 2016. My research interests focus on Image Processing, Computer Vision (3D reconstruction), and Deep Learning.
+
+ ## News
+ 
+- 6 papers are under review, including 2 first-author (*IJCV*, *TIP*), 1 corresponding-author (*APIN*), and 3 co-author (*TIP*, *TCSVT*, *TCSVT*)
+- 3 invention patents are under review.
+
+

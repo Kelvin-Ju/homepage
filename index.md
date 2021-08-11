@@ -9,7 +9,7 @@
       <p><b>Ph.D. Candidate</b></p>
       <p><b>Department of Computer Science and Technology</b></p>
       <p><b>Ocean University of China</b></p>
-      <p>juyakunAT stu.ouc.edu.cn, yakun.juAThotmail.com </p>
+      <p>juyakun=AT=stu.ouc.edu.cn, yakun.ju=AT=hotmail.com </p>
     </td>
   </tr>
 </table>

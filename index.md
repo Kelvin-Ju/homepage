@@ -10,7 +10,7 @@
       <p><b>Department of Computer Science and Technology</b></p>
       <p><b>Ocean University of China</b></p>
       <p><b>juyakun = AT= stu.ouc.edu.cn </b></p>
-      <p><b>yakun.ju = AT= hotmail.com</b></p>
+      <p>yakun.ju = AT= hotmail.com</p>
     </td>
   </tr>
 </table>

@@ -1,6 +1,6 @@
 ## Yakun Ju  (举雅琨)
 
- <img src="/home1.jpg" width="100%"> 
+ <img src="/home1.jpg" width="50%"> 
 
 You can use the [editor on GitHub](https://github.com/Kelvin-Ju/juyakun.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 

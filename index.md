@@ -30,14 +30,14 @@ I’m now a Ph.D. candidate of the Department of Computer Science and Technology
 
 - 2021.Jan. – 2021.Jul.: Research Assistant at the Department of Electronic and Information Engineering (EIE), The Hong Kong Polytechnic University, supervised by Prof. [Kenneth Kin-Man Lam](http://www.eie.polyu.edu.hk/~enkmlam/) (*SrM IEEE*).
 
--2020.Sept. – 2020.Dec.: Visiting Ph.D. student (Remote) at the WangXuan Institute of Computer Technology, Peking University, supervised by Prof. [Yuxin Peng](http://59.108.48.34/tiki/pengyuxin/) (*SrM IEEE*).
+- 2020.Sept. – 2020.Dec.: Visiting Ph.D. student (Remote) at the WangXuan Institute of Computer Technology, Peking University, supervised by Prof. [Yuxin Peng](http://59.108.48.34/tiki/pengyuxin/) (*SrM IEEE*).
 
 ### Mainly Publications
 
 #### Academic Journals
 - **Recovering Surface Normal and Arbitrary Images: A Dual Regression Network for Photometric Stereo **
 **Yakun Ju**, Junyu Dong, Sheng Chen
-IEEE Transactions on Image Processing (*TIP*) \[CCF A-rank\] [PDF](https://github.com/Kelvin-Ju/homepage/blob/gh-pages/TIP2021.pdf)
+IEEE Transactions on Image Processing (*TIP*) \[CCF A-rank\] [PDF](https://github.com/Kelvin-Ju/homepage/blob/gh-pages/TIP2021.pdf) / [DOI](https://ieeexplore.ieee.org/abstract/document/9376632)
 
 
 

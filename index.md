@@ -11,9 +11,8 @@
       <p><b>Ocean University of China</b></p>
       <p><b>juyakun = AT= stu.ouc.edu.cn *or*</b></p>
       <p><b>yakun.ju = AT= hotmail.com</b></p>
-      <p><b>[Google Scholar](https://scholar.google.com/citations?user=hE10pMYAAAAJ&hl)  [ResearchGate](https://www.researchgate.net/profile/Yakun-Ju)</b></p>
     </td>
   </tr>
 </table>
 
-
+[Google Scholar](https://scholar.google.com/citations?user=hE10pMYAAAAJ&hl)  [ResearchGate](https://www.researchgate.net/profile/Yakun-Ju)

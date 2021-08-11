@@ -44,3 +44,17 @@ IEEE Transactions on Image Processing (*TIP*)
 **Yakun Ju**, Muwei Jian, Shaoxiang Guo, Yingyu Wang, Huiyu Zhou, Junyu Dong  
 IEEE Transactions on Instrumentation and Measurement  (*TIM*)  
 \[[arXiv](https://arxiv.org/abs/2107.07192)\] \[[DOI](https://ieeexplore.ieee.org/abstract/document/9481150)\] \[[PDF](https://github.com/Kelvin-Ju/homepage/blob/gh-pages/TIM2021.pdf)\]
+
+- **A dual-cue network for multispectral photometric stereo**  
+**Yakun Ju**, Xinghui Dong, Yingyu Wang, Lin Qi, Junyu Dong  
+Pattern Recognition (*PR*)  
+\[CCF B-rank\] \[[DOI](https://www.sciencedirect.com/science/article/abs/pii/S0031320319304625)\] \[[PDF](https://github.com/Kelvin-Ju/homepage/blob/gh-pages/PR2019.pdf)\]
+
+- **Learning Conditional Photometric Stereo with High-resolution Features**    
+**Yakun Ju**, Yuxin Peng, Muwei Jian, Feng Gao, Junyu Dong    
+Computational Visual Media (*CVMJ*) (Accept)   
+\[China Excellent Journal Program\] \[[PDF](https://github.com/Kelvin-Ju/homepage/blob/gh-pages/CVMJ21.pdf)\]  
+
+#### Conference Proceedings
+
+

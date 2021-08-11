@@ -57,4 +57,9 @@ Computational Visual Media (*CVMJ*) (Accept)
 
 #### Conference Proceedings
 
+- **Pay Attention to Devils: A Photometric Stereo Network for Better Details**    
+**Yakun Ju**, Kin-Man Lam, Yang Chen, Lin Qi, Junyu Dong   
+Twenty-Ninth International Joint Conference on Artificial Intelligence (*IJCAI 2020*)   
+\[CCF A-rank\]  \[[DOI](https://www.ijcai.org/Proceedings/2020/0097)\] \[[PDF](https://github.com/Kelvin-Ju/homepage/blob/gh-pages/IJCAI2020.pdf)\]
+
 

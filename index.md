@@ -3,7 +3,7 @@
 <table border="0">
   <tr>
     <td width="25%">
-      <img src="https://github.com/Kelvin-Ju/homepage/blob/gh-pages/home1.jpg?raw=true" width="90%">     
+      <img src="https://github.com/Kelvin-Ju/homepage/blob/gh-pages/home1.jpg?raw=true" width="100%">     
     </td>
     <td width="75%">
       <p><b>Ph.D. Candidate</b></p>
@@ -14,4 +14,4 @@
   </tr>
 </table>
 
-[Google Scholar](https://scholar.google.com/citations?user=hE10pMYAAAAJ&hl)  [ResearchGate](https://www.researchgate.net/profile/Yakun-Ju)
+[Google Scholar](https://scholar.google.com/citations?user=hE10pMYAAAAJ&hl)     &    [ResearchGate](https://www.researchgate.net/profile/Yakun-Ju)

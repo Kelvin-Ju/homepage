@@ -3,7 +3,7 @@
 <table border="0">
   <tr>
     <td width="25%">
-      <img src="https://github.com/Kelvin-Ju/homepage/blob/gh-pages/home1.jpg?raw=true" width="100%">     
+      <img src="https://github.com/Kelvin-Ju/homepage/blob/gh-pages/home1.jpg?raw=true" width="120%">     
     </td>
     <td width="75%">
       <p><b>Ph.D. Candidate</b></p>

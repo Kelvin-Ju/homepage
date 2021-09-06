@@ -22,9 +22,9 @@ I’m now a Ph.D. candidate of the Department of Computer Science and Technology
 
 ### News
  
-- 6 papers are under review, including 2 first-author (*IJCV*, *TIP*), 1 corresponding-author (*APIN*), and 3 co-author (*TIP*, *TCSVT*, *TCSVT*).
+- 6 papers are under review, including 2 first-author (*IJCV*, *TIP*), 1 corresponding-author (*IVC*), and 3 co-author (*TIP*, *TCSVT*, *TCSVT*).
  
-- 3 invention patents are under review.
+- 5 invention patents are under review.
 
 ### Research Experience
 
@@ -89,7 +89,7 @@ Granted invention patent in China, 2017113024008
 
 
 
-#### Latest updated on 2021. Aug.
+#### Latest updated on 2021. Spet.
 
 
 

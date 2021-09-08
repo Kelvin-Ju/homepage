@@ -24,7 +24,7 @@ I’m now a Ph.D. candidate of the Department of Computer Science and Technology
  
 - 6 papers are under review, including 2 first-author (*IJCV*, *TIP*), 1 corresponding-author (*IVC*), and 3 co-author (*TIP*, *TCSVT*, *TCSVT*).
  
-- 5 invention patents are under review.
+- 4 invention patents are under review.
 
 ### Research Experience
 

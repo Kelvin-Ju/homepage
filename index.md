@@ -18,7 +18,7 @@
 
 ### Biography
 
-I’m now a Ph.D. candidate of the Department of Computer Science and Technology, Ocean University of China, supervised by Prof. [Junyu Dong](http://ai-ouc.cn/faculty/dongjy.html), from 2016 (successive master-doctor program), [AI theory group](http://ai-ouc.cn/tgroup/index.html). I earned my B.Sc. in Sichuan University, in 2016. My research interests focus on Image Processing, Computer Vision, and Deep Learning.
+I’m now a Ph.D. candidate of the Department of Computer Science and Technology, Ocean University of China, supervised by Prof. [Junyu Dong](http://ai-ouc.cn/faculty/dongjy.html), from 2016 (successive master-doctor program), [AI theory group](http://ai-ouc.cn/atgroup/). I earned my B.Sc. in Sichuan University, in 2016. My research interests focus on Image Processing, Computer Vision, and Deep Learning.
 
 ### News
  
@@ -77,9 +77,14 @@ Granted invention patent in China, 2017113024008
 
 ### Scholarships & Honors
 
+- 2021 National Scholarship for Doctoral Students (CNY 30,000)
 - 2020 National Scholarship for Doctoral Students (CNY 30,000)
 - 2020 CSC Scholarship for Joint PhD Training Program (GBP 15,000)
-- 2020 Excellent achievement award for Postgraduates of Shandong Province (second-rank)
+- 2020 Excellent achievement award for Postgraduates of Shandong Province (CNY 1,000)
+- 2020 Excellent postgraduate student
+- 2019 Excellent postgraduate student
+- 2018 Excellent postgraduate student
+- 2017 Excellent postgraduate student
 - 2017 Goers Acoustic Scholarship (CNY 4,000)
 
 

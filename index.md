@@ -45,7 +45,7 @@ In 2021 IJCAI-SAIA Young Elite Symposium (*IJCAI-SAIA YES*), Shanghai, China, 20
 - **Recovering Surface Normal and Arbitrary Images: A Dual Regression Network for Photometric Stereo**  
 **Yakun Ju**, Junyu Dong, Sheng Chen  
 IEEE Transactions on Image Processing (*TIP*)   
-\[CCF A-rank\] \[[DOI](https://ieeexplore.ieee.org/abstract/document/9376632)\]  \[[PDF](https://github.com/Kelvin-Ju/homepage/blob/gh-pages/TIP2021.pdf)\]  \[[Poster-VASLE](https://github.com/Kelvin-Ju/homepage/blob/gh-pages/Valse-poster.pdf)\]
+\[CCF A-rank\] \[[DOI](https://ieeexplore.ieee.org/abstract/document/9376632)\]  \[[PDF](https://github.com/Kelvin-Ju/homepage/blob/gh-pages/TIP2021.pdf)\]  \[[Poster-Valse](https://github.com/Kelvin-Ju/homepage/blob/gh-pages/Valse-poster.pdf)\]
 
 - **Incorporating Lambertian Priors Into Surface Normals Measurement**  
 **Yakun Ju**, Muwei Jian, Shaoxiang Guo, Yingyu Wang, Huiyu Zhou, Junyu Dong  

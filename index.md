@@ -18,7 +18,7 @@
 
 ### Biography
 
-I’m now a Ph.D. candidate of the Department of Computer Science and Technology, Ocean University of China, supervised by Prof. [Junyu Dong](http://ai-ouc.cn/faculty/dongjy.html), from 2016 (successive master-doctor program), [AI theory group](http://ai-ouc.cn/atgroup/). I earned my B.Sc. in Sichuan University, in 2016. My research interests focus on Image Processing, Computer Vision, and Deep Learning.
+I’m now a Ph.D. candidate of the Department of Computer Science and Technology, **Ocean University of China**, supervised by Prof. [Junyu Dong](http://ai-ouc.cn/faculty/dongjy.html), from 2016 (successive master-doctor program), [AI theory group](http://ai-ouc.cn/atgroup/). I earned my B.Sc. in Sichuan University, in 2016. My research interests focus on Image Processing, Computer Vision, and Deep Learning.
 
 ### News
  
@@ -27,11 +27,11 @@ I’m now a Ph.D. candidate of the Department of Computer Science and Technology
 - 4 invention patents are under review.
 
 ### Research Experience
-- *2021.  Dec. – 2022.  Dec.* (Expected): CSC Joint Training Ph.D. at the School of Electronics and Computer Science (ECS), University of Southampton, supervised by Prof. [Sheng Chen](https://www.ecs.soton.ac.uk/people/sqc?_gl=1*1a7ri6*_ga*MTM0MDEyODgzOS4xNjMxMDgyMDUx*_ga_51YK64STMR*MTYzMzE2MzI2NC4zLjEuMTYzMzE2MzQzMi41Mg..#research) (*FIEEE, FREng*).
+- *2021.  Dec. – 2022.  Dec.* (Expected): CSC Joint Training Ph.D. at the School of Electronics and Computer Science (ECS), **University of Southampton**, supervised by Prof. [Sheng Chen](https://www.ecs.soton.ac.uk/people/sqc?_gl=1*1a7ri6*_ga*MTM0MDEyODgzOS4xNjMxMDgyMDUx*_ga_51YK64STMR*MTYzMzE2MzI2NC4zLjEuMTYzMzE2MzQzMi41Mg..#research) (*FIEEE, FREng*).
 
-- *2021.  Jan. – 2021.  Jul.*: Research Assistant at the Department of Electronic and Information Engineering (EIE), The Hong Kong Polytechnic University, supervised by Prof. [Kenneth Kin-Man Lam](http://www.eie.polyu.edu.hk/~enkmlam/) (*SrM IEEE*).
+- *2021.  Jan. – 2021.  Jul.*: Research Assistant at the Department of Electronic and Information Engineering (EIE), **The Hong Kong Polytechnic University**, supervised by Prof. [Kenneth Kin-Man Lam](http://www.eie.polyu.edu.hk/~enkmlam/) (*SrM IEEE*).
 
-- *2020. Sept. – 2020. Dec.*: Visiting Ph.D. student (Remote) at the WangXuan Institute of Computer Technology, Peking University, supervised by Prof. [Yuxin Peng](http://59.108.48.34/tiki/pengyuxin/) (*SrM IEEE*).
+- *2020. Sept. – 2020. Dec.*: Visiting Ph.D. student (Remote) at the WangXuan Institute of Computer Technology, **Peking University**, supervised by Prof. [Yuxin Peng](http://59.108.48.34/tiki/pengyuxin/) (*SrM IEEE*).
 
 ### Invited Talk
 

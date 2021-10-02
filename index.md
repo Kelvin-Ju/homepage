@@ -27,6 +27,7 @@ I’m now a Ph.D. candidate of the Department of Computer Science and Technology
 - 4 invention patents are under review.
 
 ### Research Experience
+- *2021.  Dec. – 2022.  Dec.* (Expected): CSC Joint Ph.D. Training Program at the School of Electronics and Computer Science (ECS), University of Southampton, supervised by Prof.[Sheng Chen](https://www.ecs.soton.ac.uk/people/sqc?_gl=1*1a7ri6*_ga*MTM0MDEyODgzOS4xNjMxMDgyMDUx*_ga_51YK64STMR*MTYzMzE2MzI2NC4zLjEuMTYzMzE2MzQzMi41Mg..#research) (*FIEEE, FREng*).
 
 - *2021.  Jan. – 2021.  Jul.*: Research Assistant at the Department of Electronic and Information Engineering (EIE), The Hong Kong Polytechnic University, supervised by Prof. [Kenneth Kin-Man Lam](http://www.eie.polyu.edu.hk/~enkmlam/) (*SrM IEEE*).
 
@@ -81,10 +82,7 @@ Granted invention patent in China, 2017113024008
 - 2020 National Scholarship for Doctoral Students (CNY 30,000)
 - 2020 CSC Scholarship for Joint PhD Training Program (GBP 15,000)
 - 2020 Excellent achievement award for Postgraduates of Shandong Province (CNY 1,000)
-- 2020 Excellent postgraduate student
-- 2019 Excellent postgraduate student
-- 2018 Excellent postgraduate student
-- 2017 Excellent postgraduate student
+- 2020 - 2017 Excellent postgraduate student
 - 2017 Goers Acoustic Scholarship (CNY 4,000)
 
 

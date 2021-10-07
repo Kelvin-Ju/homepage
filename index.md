@@ -78,10 +78,9 @@ Granted invention patent in China, 2017113024008
 
 ### Scholarships & Honors
 
-- 2021 National Scholarship for Doctoral Students (CNY 30,000)
 - 2020 National Scholarship for Doctoral Students (CNY 30,000)
 - 2020 CSC Scholarship for Joint PhD Training Program (GBP 15,000)
-- 2020 Excellent achievement award for Postgraduates of Shandong Province (CNY 1,000)
+- 2020 Excellent achievement award for Postgraduates of Shandong Province 
 - 2020 - 2017 Excellent postgraduate student
 - 2017 Goers Acoustic Scholarship (CNY 4,000)
 
@@ -92,7 +91,7 @@ Granted invention patent in China, 2017113024008
 
 
 
-#### Latest updated on 2021. Spet.
+#### Latest updated on 2021. Oct.
 
 
 

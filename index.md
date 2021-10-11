@@ -89,6 +89,3 @@ Granted invention patent in China, 2017113024008
 
 #### Latest updated on 2021. Oct.
 
-<body>
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=m_pGr-Qgtapd7BBhM8ovkr5jjA9ZmpnRKDyLZjUaWuM&cl=ffffff&w=a"></script>
-  </body>

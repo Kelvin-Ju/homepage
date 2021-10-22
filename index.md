@@ -22,12 +22,6 @@ I’m now a Ph.D. candidate of the Department of Computer Science and Technology
 
 
 
-### News
- 
-- 6 papers are under review, including 2 first-author (*IJCV*, *TIP*), 1 corresponding-author (*IVC*), and 2 co-author (*TIP*, *TCSVT*).
- 
-- 4 invention patents are under review.
-
 ### Research Experience
 - *2021.  Dec. – 2022.  Dec.* (Expected): CSC Joint Training Ph.D. at the School of Electronics and Computer Science (ECS), **University of Southampton**, supervised by Prof. [Sheng Chen](https://www.ecs.soton.ac.uk/people/sqc?_gl=1*1a7ri6*_ga*MTM0MDEyODgzOS4xNjMxMDgyMDUx*_ga_51YK64STMR*MTYzMzE2MzI2NC4zLjEuMTYzMzE2MzQzMi41Mg..#research) (*FIEEE, FREng*).
 

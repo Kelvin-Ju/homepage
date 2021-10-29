@@ -45,7 +45,7 @@ In 2021 Vision And Learning SEminar, Workshop5: 三维视觉技术-Spotlight (*V
 - **Recovering Surface Normal and Arbitrary Images: A Dual Regression Network for Photometric Stereo**  
 **Yakun Ju**, Junyu Dong, Sheng Chen  
 IEEE Transactions on Image Processing (*T-IP*)   
-\[CCF A-rank\] \[[DOI](https://ieeexplore.ieee.org/abstract/document/9376632)\]  \[[PDF](https://github.com/Kelvin-Ju/homepage/blob/gh-pages/TIP2021.pdf)\]  \[[Poster-Valse](https://github.com/Kelvin-Ju/homepage/blob/gh-pages/Valse-poster.pdf)\]
+\[CCF A-rank\] \[[DOI](https://ieeexplore.ieee.org/abstract/document/9376632)\]  \[[PDF](https://github.com/Kelvin-Ju/homepage/blob/gh-pages/TIP2021.pdf)\]  \[[Poster-VALSE](https://github.com/Kelvin-Ju/homepage/blob/gh-pages/Valse-poster.pdf)\]   \[[Recommend](https://mp.weixin.qq.com/s?__biz=MzIwMDk5MTQyMg==&mid=2247487632&idx=1&sn=17afb31789cf087782f9aab6e3914544&chksm=96f5e741a1826e5776ed50e13d60ded963833f6cf461baeb397fe7fc4fd1de26f6dc635ceacf&mpshare=1&scene=1&srcid=0921MK8dX4pIPXi9lr7WacXn&sharer_sharetime=1635495104116&sharer_shareid=b2ba25fe85a9390c17b5a8f3140ec80f&key=a6237950f5de8fc9990bb47be7b334a881d67799388a47d7c6624cfc5b4fe0bee423db5214fa32acc355b928941dfd46f88093ecd468f386a7354372c273077b304d8097dc9e33e515e333aea0de6876658d18dded1302fc6b54c620d3c60a08e00c8ac99bb136188cc359069b899f0c3c8f5a8bbf225ec22a6a15532d3b8943&ascene=1&uin=MTUxODE4OTc2MQ%3D%3D&devicetype=Windows+10&version=62080079&lang=zh_CN&exportkey=AYb%2BkL9Gwm%2BwVlb0FMpty4c%3D&pass_ticket=gonrEnZFSZWBcoCIX06pLGi3I5%2FLXz91f4ortv4vbubtTaPO9UU7nx1Qci7Drgv7&wx_header=0)\]
 
 - **Incorporating Lambertian Priors Into Surface Normals Measurement**  
 **Yakun Ju**, Muwei Jian, Shaoxiang Guo, Yingyu Wang, Huiyu Zhou, Junyu Dong  

@@ -39,7 +39,8 @@ In 2021 IJCAI-SAIA Young Elite Symposium (*IJCAI-SAIA YES*), Shanghai, China, 20
 In 2021 Vision And Learning SEminar, Workshop5: 三维视觉技术-Spotlight (*VALSE 2021*), Hangzhou, China, 2021, Oct.   
 \[[Website](http://valser.org/2021/#/program)\] 
 
-### Mainly Publications
+### Mainly Publications   
+(See full list in [Google Scholar](https://scholar.google.com/citations?user=hE10pMYAAAAJ&hl))
 
 #### Academic Journals
 - **Recovering Surface Normal and Arbitrary Images: A Dual Regression Network for Photometric Stereo**  

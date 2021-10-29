@@ -82,7 +82,7 @@ IJCV, T-IP, IVC
 - **Co-author**   
 T-IP, T-CSVT, T-IM
 
-- **Patents**
+- **Patents**   
 6 patents are under review.
 
 ### Scholarships & Honors

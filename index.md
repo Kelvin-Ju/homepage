@@ -35,6 +35,9 @@ I’m now a Ph.D. candidate of the Department of Computer Science and Technology
 In 2021 IJCAI-SAIA Young Elite Symposium (*IJCAI-SAIA YES*), Shanghai, China, 2021, July.
 \[[Website](http://www.ijcai-saia-yes.org.cn/)\]  \[[News](https://mp.weixin.qq.com/s/K67lmIvbp1Ojy26MSnStSw)\]   \[[video](https://www.bilibili.com/video/BV1jh41167JV?from=search&seid=15011617246000243912)\]
 
+- **Recovering Surface Normal and Arbitrary Images: A Dual Regression Network for Photometric Stereo**
+In 2021 Vision And Learning SEminar, Workshop5: 三维视觉技术-Spotlight (*VALSE 2021*), Hangzhou, China, 2021, Oct.
+\[[Website](http://valser.org/2021/#/program)\] 
 
 ### Mainly Publications
 
@@ -56,8 +59,8 @@ Pattern Recognition (*PR*)
 
 - **Learning Conditional Photometric Stereo with High-resolution Features**    
 **Yakun Ju**, Yuxin Peng, Muwei Jian, Feng Gao, Junyu Dong    
-Computational Visual Media (*CVMJ*) (Accept)   
-\[China Excellent Journal Program\] \[[PDF](https://github.com/Kelvin-Ju/homepage/blob/gh-pages/CVMJ21.pdf)\]  
+Computational Visual Media (*CVMJ*)   
+\[China Excellent Journal Program\] \[[DOI](https://link.springer.com/article/10.1007/s41095-021-0223-y)\] \[[PDF](https://github.com/Kelvin-Ju/homepage/blob/gh-pages/CVMJ21.pdf)\]  
 
 #### Conference Proceedings
 
@@ -71,6 +74,13 @@ Twenty-Ninth International Joint Conference on Artificial Intelligence (*IJCAI 2
 **Yakun Ju**, Junyu Dong, Lin Qi, Liang Lu    
 Granted invention patent in China, 2017113024008   
 \[[Link](http://www.soopat.com/Patent/201711302400)\] \[[Patent](https://github.com/Kelvin-Ju/homepage/blob/gh-pages/Patent2021.pdf)\]
+
+### Under review 
+- **First Author or Corresponding Author**
+IJCV, T-IP, IVC
+
+- **Co-author**
+T-IP, T-CSVT, T-IM
 
 ### Scholarships & Honors
 

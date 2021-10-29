@@ -32,7 +32,7 @@ I’m now a Ph.D. candidate of the Department of Computer Science and Technology
 ### Invited Talk
 
 - **Research on Data-Driven Photometric Stereo (数据驱动光度立体相关进展研究)**   
-In 2021 IJCAI-SAIA Young Elite Symposium (*IJCAI-SAIA YES*), Shanghai, China, 2021, July.
+In 2021 IJCAI-SAIA Young Elite Symposium (*IJCAI-SAIA YES*), Shanghai, China, 2021, July.   
 \[[Website](http://www.ijcai-saia-yes.org.cn/)\]  \[[News](https://mp.weixin.qq.com/s/K67lmIvbp1Ojy26MSnStSw)\]   \[[video](https://www.bilibili.com/video/BV1jh41167JV?from=search&seid=15011617246000243912)\]
 
 - **Recovering Surface Normal and Arbitrary Images: A Dual Regression Network for Photometric Stereo**   
@@ -82,14 +82,18 @@ IJCV, T-IP, IVC
 - **Co-author**   
 T-IP, T-CSVT, T-IM
 
+- **Patents**
+6 patents are under review.
+
 ### Scholarships & Honors
 
-- 2020 National Scholarship for Doctoral Students (CNY 30,000)
-- 2020 CSC Scholarship for Joint PhD Training Program (GBP 15,000)
+- 2021 Excellent postgraduate student
+- 2020 National Scholarship for Doctoral Students
+- 2020 CSC Scholarship for Joint PhD Training Program
 - 2020 Excellent achievement award for Postgraduates of Shandong Province 
 - 2020 Excellent postgraduate student
 - 2019 Excellent postgraduate student
-- 2017 Goers Acoustic Scholarship (CNY 4,000)
+- 2017 Goers Acoustic Scholarship
 
 
 #### Latest updated on 2021. Oct.

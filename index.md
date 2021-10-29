@@ -40,7 +40,6 @@ In 2021 Vision And Learning SEminar, Workshop5: 三维视觉技术-Spotlight (*V
 \[[Website](http://valser.org/2021/#/program)\] 
 
 ### Mainly Publications   
-(See full list in [Google Scholar](https://scholar.google.com/citations?user=hE10pMYAAAAJ&hl))
 
 #### Academic Journals
 - **Recovering Surface Normal and Arbitrary Images: A Dual Regression Network for Photometric Stereo**  
@@ -69,6 +68,8 @@ Computational Visual Media (*CVMJ*)
 **Yakun Ju**, Kin-Man Lam, Yang Chen, Lin Qi, Junyu Dong   
 Twenty-Ninth International Joint Conference on Artificial Intelligence (*IJCAI 2020*)   
 \[CCF A-rank\]  \[[DOI](https://www.ijcai.org/Proceedings/2020/0097)\] \[[PDF](https://github.com/Kelvin-Ju/homepage/blob/gh-pages/IJCAI2020.pdf)\]
+
+(See full list in [Google Scholar](https://scholar.google.com/citations?user=hE10pMYAAAAJ&hl))
 
 ### Invention Patent
 - **A Single Frame Image 3D Reconstruction Device and Method Based on Deep Learning (一种基于深度学习的单帧图像三维重建装置及方法)**    

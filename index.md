@@ -20,7 +20,9 @@
 
 I’m now a Ph.D. candidate of the Department of Computer Science and Technology, Ocean University of China, supervised by Prof. [Junyu Dong](http://ai-ouc.cn/faculty/dongjy.html), from 2016 (successive master-doctor program), [AI theory group](http://ai-ouc.cn/atgroup/). I earned my B.Sc. in Sichuan University, in 2016. My research interests focus on Image Processing, Computer Vision, and Deep Learning. **If you want to cooperate with me, kindly contact me via E-mail.**
 
+### News
 
+I am looking for a postdoctoral position.
 
 ### Research Experience
 <!-- *2021.  Dec. – 2022.  Dec.* (Expected): CSC Joint Training Ph.D. at the School of Electronics and Computer Science (ECS), **University of Southampton**, supervised by Prof. [Sheng Chen](https://www.ecs.soton.ac.uk/people/sqc?_gl=1*1a7ri6*_ga*MTM0MDEyODgzOS4xNjMxMDgyMDUx*_ga_51YK64STMR*MTYzMzE2MzI2NC4zLjEuMTYzMzE2MzQzMi41Mg..#research) (*FIEEE, FREng*).-->

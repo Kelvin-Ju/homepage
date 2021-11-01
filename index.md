@@ -98,5 +98,5 @@ T-IP, T-CSVT, T-IM
 - 2017 Goers Acoustic Scholarship
 
 
-#### Latest updated on 2021. Oct.
+#### Latest updated on 2021. Nov.
 

@@ -84,21 +84,22 @@ Granted invention patent in China, 2017113024008
 IJCV, T-IP, IVC
 
 - **Co-author**   
-T-IP, T-CSVT, T-IM
+T-IP, T-CSVT, T-IM, T-CYB
 
 - **Patents**   
-6 patents are under review.
+5 patents are under review.
 
 ### Scholarships & Honors
 
-- 2021 Excellent postgraduate student
-- 2020 National Scholarship for Doctoral Students
-- 2020 CSC Scholarship for Joint PhD Training Program
-- 2020 Excellent achievement award for Postgraduates of Shandong Province 
-- 2020 Excellent postgraduate student
-- 2019 Excellent postgraduate student
-- 2017 Goers Acoustic Scholarship
+- 2021 Inspur Scholarship (浪潮奖学金)
+- 2021 Excellent postgraduate student (优秀研究生)
+- 2020 National Scholarship for Doctoral Students (研究生国家奖学金)
+- 2020 CSC Scholarship for Joint PhD Training Program (国家留学基金委联合培养博士生奖学金)
+- 2020 Excellent achievement award for Postgraduates of Shandong Province (山东省研究生优秀成果奖)
+- 2020 Excellent postgraduate student (优秀研究生)
+- 2019 Excellent postgraduate student (优秀研究生)
+- 2017 Goers Acoustic Scholarship (歌尔声学奖学金)
 
 
-#### Latest updated on 2021. Nov.
+#### Latest updated on 2021. Dec.
 

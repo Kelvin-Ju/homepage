@@ -41,6 +41,11 @@ In 2021 IJCAI-SAIA Young Elite Symposium (*IJCAI-SAIA YES*), Shanghai, China, 20
 In 2021 Vision And Learning SEminar, Workshop5: 三维视觉技术-Spotlight (*VALSE 2021*), Hangzhou, China, 2021, Oct.   
 \[[Website](http://valser.org/2021/#/program)\] 
 
+- **数据驱动的光度立体技术**   
+In CCF-中国智能机器人学术年会, Qingdao, China, 2021, Dec.   
+\[[Website](https://mp.weixin.qq.com/s/yJW_wnza8cK_CAZHNeUMWA)\] 
+
+
 ### Mainly Publications   
 
 #### Academic Journals

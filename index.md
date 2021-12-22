@@ -22,7 +22,9 @@ I’m now a Ph.D. candidate of the Department of Computer Science and Technology
 
 ### News
 
-I am looking for PostDoc / Research Fellow / Research Associate position. I expect to be available in June 2022.
+- I am looking for PostDoc / Research Fellow / Research Associate position. I expect to be available in June 2022.
+
+- 20th, Dec: One paper is accepted by Image and Vision Computing (corresponding author).
 
 ### Research Experience
 <!-- *2021.  Dec. – 2022.  Dec.* (Expected): CSC Joint Training Ph.D. at the School of Electronics and Computer Science (ECS), **University of Southampton**, supervised by Prof. [Sheng Chen](https://www.ecs.soton.ac.uk/people/sqc?_gl=1*1a7ri6*_ga*MTM0MDEyODgzOS4xNjMxMDgyMDUx*_ga_51YK64STMR*MTYzMzE2MzI2NC4zLjEuMTYzMzE2MzQzMi41Mg..#research) (*FIEEE, FREng*).-->
@@ -87,10 +89,10 @@ Granted invention patent in China, 2017113024008
 
 ### Under review 
 - **First Author or Corresponding Author**   
-IJCV, T-IP, IVC
+IJCV, T-IP
 
 - **Co-author**   
-T-IP, T-CSVT, T-IM, T-CYB
+T-CSVT, T-IM, T-CYB
 
 - **Patents**   
 5 patents are under review.

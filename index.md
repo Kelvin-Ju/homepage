@@ -3,7 +3,7 @@
 <table border="0">
   <tr>
     <td width="25%">
-      <img src="https://imgtu.com/i/TIwWmF" width="100%">   
+      <img src="https://s4.ax1x.com/2022/01/01/TIwWmF.jpg" width="100%">   
     </td>
     <td width="75%">
       <p><b>Ph.D. Candidate</b></p>

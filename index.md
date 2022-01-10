@@ -22,7 +22,7 @@ I’m now a Ph.D. candidate of the Department of Computer Science and Technology
 
 ### News
 
-- I am looking for PostDoc / Research Fellow / Research Associate position. I expect to be available in June 2022.
+- T-CSVT x 1, IVC x1 accepted from 2021 Dec. to 2022 Jan.
 
 
 ### Research Experience
@@ -88,16 +88,17 @@ Granted invention patent in China, 2017113024008
 
 ### Under review 
 - **First Author or Corresponding Author**   
-IJCV, T-IP
+IJCV, T-IP, JIG (中国图象图形学报)
 
 - **Co-author**   
-T-CSVT, T-IM, T-CYB
+T-IM, T-CYB
 
 - **Patents**   
 5 patents are under review.
 
 ### Scholarships & Honors
 
+- 2022 Outstanding Graduates (优秀毕业生)
 - 2021 Inspur Scholarship (浪潮奖学金)
 - 2021 Excellent postgraduate student (优秀研究生)
 - 2020 National Scholarship for Doctoral Students (研究生国家奖学金)

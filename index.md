@@ -86,6 +86,11 @@ Twenty-Ninth International Joint Conference on Artificial Intelligence (*IJCAI 2
 Granted invention patent in China, 2017113024008   
 \[[Link](http://www.soopat.com/Patent/201711302400)\] \[[Patent](https://github.com/Kelvin-Ju/homepage/blob/gh-pages/Patent2021.pdf)\]
 
+- **High-frequency Region Enhancement Photometric Stereo Method Based on Deep Learning (基于深度学习的高频区域增强的光度立体三维重建方法)**    
+**Yakun Ju**, Junyu Dong, Feng Gao  
+Granted invention patent in China, 202111524515   
+\[[Link](http://www.soopat.com/Patent/202111524515)\] 
+
 ### Under review 
 - **First Author or Corresponding Author**   
 IJCV, T-IP, JIG (中国图象图形学报)
@@ -94,7 +99,7 @@ IJCV, T-IP, JIG (中国图象图形学报)
 T-IM, T-CYB
 
 - **Patents**   
-5 patents are under review.
+4 patents are under review.
 
 ### Scholarships & Honors
 

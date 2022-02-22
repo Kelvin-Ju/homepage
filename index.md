@@ -22,7 +22,7 @@ I’m now a Ph.D. candidate of the Department of Computer Science and Technology
 
 ### News
 
-- T-CSVT x 1, IVC x1 accepted from 2021 Dec. to 2022 Jan.
+- T-CSVT x 1, IVC x1 accepted from 2021 Dec. to 2022 Feb.
 
 
 ### Research Experience
@@ -101,6 +101,18 @@ T-IM, T-CYB
 - **Patents**   
 4 patents are under review.
 
+### Reviewer
+- International Journal of Computer Vision
+- IEEE Transactions on Industrial Electronics
+- IEEE Access
+- Scientific Report
+- Neurocomputing
+- IJCAI 2021
+
+
+
+
+
 ### Scholarships & Honors
 
 - 2022 Outstanding Graduates (优秀毕业生)
@@ -114,5 +126,5 @@ T-IM, T-CYB
 - 2017 Goers Acoustic Scholarship (歌尔声学奖学金)
 
 
-#### Latest updated on 2022. Jan.
+#### Latest updated on 2022. Feb.
 

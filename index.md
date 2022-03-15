@@ -92,7 +92,7 @@ Granted invention patent in China, 202111524515
 \[[Link](http://www.soopat.com/Patent/202111524515)\] 
 
 - **Transform-based face image super-resolution method (一种基于Transformer的人脸图像超分辨的方法)**  
--  Muwei Jian, Rui Wang, Xing Wang, **Yakun Ju**, Ji Chen, Zhenxue Chen, Deqian Fu, Wenyin Zhang, Zhen Huang  
+Muwei Jian, Rui Wang, Xing Wang, **Yakun Ju**, Ji Chen, Zhenxue Chen, Deqian Fu, Wenyin Zhang, Zhen Huang  
 Granted invention patent in China, 2021106623438   
 \[[Link](http://www.soopat.com/Patent/202110623438)\] 
 

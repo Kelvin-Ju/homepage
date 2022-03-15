@@ -22,7 +22,7 @@ I’m now a Ph.D. candidate of the Department of Computer Science and Technology
 
 ### News
 
-- T-CSVT x 1, IVC x1 accepted from 2021 Dec. to 2022 Feb.
+- T-CSVT x 1, IVC x1 accepted from 2021 Dec. to 2022 Mar.
 
 
 ### Research Experience
@@ -91,6 +91,12 @@ Granted invention patent in China, 2017113024008
 Granted invention patent in China, 202111524515   
 \[[Link](http://www.soopat.com/Patent/202111524515)\] 
 
+- **Transform-based face image super-resolution method (一种基于Transformer的人脸图像超分辨的方法)**  
+-  Muwei Jian, Rui Wang, Xing Wang, **Yakun Ju**, Ji Chen, Zhenxue Chen, Deqian Fu, Wenyin Zhang, Zhen Huang  
+Granted invention patent in China, 2021106623438   
+\[[Link](http://www.soopat.com/Patent/202110623438)\] 
+
+
 ### Under review 
 - **First Author or Corresponding Author**   
 IJCV, T-IP, JIG (中国图象图形学报)
@@ -107,7 +113,7 @@ T-IM, T-CYB
 - IEEE Access
 - Scientific Report
 - Neurocomputing
-- IJCAI 2021
+
 
 
 
@@ -126,5 +132,5 @@ T-IM, T-CYB
 - 2017 Goers Acoustic Scholarship (歌尔声学奖学金)
 
 
-#### Latest updated on 2022. Feb.
+#### Latest updated on 2022. Mar.
 

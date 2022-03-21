@@ -121,7 +121,7 @@ T-IM, T-CYB
 
 ### Scholarships & Honors
 
-- 2022 Outstanding Graduates (优秀毕业生)
+- 2022 Outstanding Graduates of Shandong Province (山东省优秀毕业生)
 - 2021 Inspur Scholarship (浪潮奖学金)
 - 2021 Excellent postgraduate student (优秀研究生)
 - 2020 National Scholarship for Doctoral Students (研究生国家奖学金)

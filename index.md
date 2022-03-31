@@ -99,7 +99,7 @@ Granted invention patent in China, 2021106623438
 
 ### Under review 
 - **First Author or Corresponding Author**   
-IJCV, T-IP, JIG (中国图象图形学报)
+IJCV, T-IP, ACM MM, JIG (中国图象图形学报)
 
 - **Co-author**   
 T-IM, T-CYB

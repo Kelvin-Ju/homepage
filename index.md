@@ -86,7 +86,7 @@ Twenty-Ninth International Joint Conference on Artificial Intelligence (*IJCAI 2
 - **A Single Frame Image 3D Reconstruction Device and Method Based on Deep Learning (一种基于深度学习的单帧图像三维重建装置及方法)**    
 **Yakun Ju**, Junyu Dong, Lin Qi, Liang Lu    
 Granted invention patent in China, 2017113024008   
-\[[Link](http://www.soopat.com/Patent/201711302400)\] \[[Patent](https://github.com/Kelvin-Ju/homepage/blob/gh-pages/Patent2021.pdf)\]
+\[[Link](http://www.soopat.com/Patent/201711302400)\] 
 
 - **High-frequency Region Enhancement Photometric Stereo Method Based on Deep Learning (基于深度学习的高频区域增强的光度立体三维重建方法)**    
 **Yakun Ju**, Junyu Dong, Feng Gao  

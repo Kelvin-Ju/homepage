@@ -24,7 +24,7 @@ I’m now a Ph.D. candidate of the Department of Computer Science and Technology
 
 -  My Ph.D. dissertation, namely ``Deep Learning Models for Non-Lambertian Photometric Stereo (非朗伯光度立体的深度学习模型)'' gets the 5A (excellent from 5 reviewers), the PDF of my dissertation will be available here soon.
 
-- T-CSVT x 1, IVC x1 accepted from 2021 Dec. to 2022 Mar.
+- T-CSVT x 1, T-IM x 1, IVC x1 accepted from 2021 Dec. to 2022 Apr.
 
 
 ### Research Experience
@@ -134,5 +134,5 @@ T-IM, T-CYB, ACM MM
 - 2017 Goers Acoustic Scholarship (歌尔声学奖学金)
 
 
-#### Latest updated on 2022. Mar.
+#### Latest updated on 2022. Apr.
 

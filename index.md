@@ -73,6 +73,26 @@ Pattern Recognition (*PR*)
 Computational Visual Media (*CVMJ*)   
 \[China Excellent Journal Program\] \[[DOI](https://link.springer.com/article/10.1007/s41095-021-0223-y)\] \[[PDF](https://github.com/Kelvin-Ju/homepage/blob/gh-pages/CVMJ21.pdf)\]  
 
+- **MPS-Net: Learning to recover surface normal for multispectral photometric stereo**    
+**Yakun Ju**, Lin Qi, Jichao He, Xinghui Dong, Feng Gao, Junyu Dong    
+Neurocomputing   
+\[CCF C-rank\] \[[DOI](https://www.sciencedirect.com/science/article/abs/pii/S092523121931358X)\] 
+
+- **A deep-shallow and global–local multi-feature fusion network for photometric stereo**    
+Yanru Liu, **Yakun Ju (Corresponding)**, Muwei Jian, Feng Gao, Yuan Rao, Yeqi Hu, Junyu Dong    
+Image and Vision Computing (*IVC*)  
+\[CCF C-rank\] \[[DOI](https://www.sciencedirect.com/science/article/abs/pii/S0262885621002730)\] 
+
+- **3D Hand Pose Estimation from Monocular RGB with Feature Interaction Module**    
+Shaoxiang Guo, Eric Rigall,**Yakun Ju**, Junyu Dong    
+IEEE Transactions on Circuits and Systems for Video Technology (*T-CSVT*)  
+\[CCF B-rank\] \[[DOI](https://ieeexplore.ieee.org/abstract/document/9680673)\] 
+
+- **Learning General Feature Descriptor for Visual Measurement with Hierarchical View Consistency**    
+Yuan Rao, Jian Yang,**Yakun Ju**, Cong Li, Eric Rigall, Hao Fan, Junyu Dong    
+IEEE Transactions on Instrumentation and Measurement  (*T-IM*)  
+\[[DOI](https://ieeexplore.ieee.org/abstract/document/9761834/)\] 
+
 #### Conference Proceedings
 
 - **Pay Attention to Devils: A Photometric Stereo Network for Better Details**    

@@ -6,7 +6,7 @@
       <img src="https://s3.bmp.ovh/imgs/2022/03/f090ed19566fdd0f.jpg" width="100%">   
     </td>
     <td width="75%">
-      <p><b>Ph.D. Candidate</b></p>
+      <p><b>Ph.D. </b></p>
       <p><b>Department of Computer Science and Technology</b></p>
       <p><b>Ocean University of China</b></p>
       <p>juyakun=AT=stu.ouc.edu.cn, yakun.ju=AT=hotmail.com </p>

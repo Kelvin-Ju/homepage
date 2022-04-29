@@ -18,11 +18,11 @@
 
 ### Biography
 
-I’m now a Ph.D. candidate of the Department of Computer Science and Technology, Ocean University of China, supervised by Prof. [Junyu Dong](http://ai-ouc.cn/faculty/dongjy.html), from 2016 (successive master-doctor program), [AI theory group](http://ai-ouc.cn/atgroup/). I earned my B.Sc. in Sichuan University, in 2016. My research interests focus on Image Processing, Computer Vision, Computational Photography, and Deep Learning. **If you want to cooperate with me, kindly contact me via E-mail.**
+I earned my Ph.D. at the Department of Computer Science and Technology, Ocean University of China, supervised by Prof. [Junyu Dong](http://ai-ouc.cn/faculty/dongjy.html), in 2022 (successive master-doctor program). Before that, I earned my B.Sc. in Sichuan University, in 2016. My research interests focus on Image Processing, Computer Vision, Computational Photography, and Deep Learning. **If you want to cooperate with me, kindly contact me via E-mail.**
 
 ### News
 
--  My Ph.D. dissertation, namely ``Deep Learning Models for Non-Lambertian Photometric Stereo (非朗伯光度立体的深度学习模型)'' gets the 5A (excellent from 5 reviewers), the PDF of my dissertation will be available here soon.
+-  My Ph.D. dissertation, namely ``Deep Learning Models for Non-Lambertian Photometric Stereo (非朗伯光度立体的深度学习模型)'', will be available here soon.
 
 - T-CSVT x 1, T-IM x 1, IVC x1 accepted from 2021 Dec. to 2022 Apr.
 
@@ -135,9 +135,6 @@ T-IM, T-CYB, ACM MM
 - IEEE Access
 - Scientific Report
 - Neurocomputing
-
-
-
 
 
 

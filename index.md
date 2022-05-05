@@ -124,7 +124,7 @@ Granted invention patent in China, 2021106623438
 IJCV, T-IP, ACM MM, JIG (中国图象图形学报)
 
 - **Co-author**   
-T-IM, T-CYB, ACM MM
+T-IM, T-CSVT, ACM MM
 
 - **Patents**   
 4 patents are under review.

@@ -76,13 +76,13 @@ Computational Visual Media (*CVMJ*)
 - **MPS-Net: Learning to recover surface normal for multispectral photometric stereo**    
 **Yakun Ju**, Lin Qi, Jichao He, Xinghui Dong, Feng Gao, Junyu Dong    
 Neurocomputing   
-\[CCF C-rank\] \[已收录\] 
+\[CCF C-rank\] \[[DOI](https://www.sciencedirect.com/science/article/abs/pii/S092523121931358X)\]  
 
 
 - **MASR-PSN：低分光度立体图像的高分法向重建深度学习模型 (MASR-PSN: Deep learning model for high-resolution surface normals reconstruction by low-resolution photometric stereo images)**    
 **举雅琨 (Yakun Ju)**, 蹇木伟 (Muwei Jian), 饶源 (Yuan Rao), 张述 (Shu Zhang), 高峰 (Feng Gao), 董军宇 (Junyu Dong)    
 中国图象图形学报 (Journal of Image and Graphics, JIG) 
-\[CCF B-rank中文\] \[[DOI](https://www.sciencedirect.com/science/article/abs/pii/S092523121931358X)\] 
+\[CCF B-rank中文\]  \[已收录\]  
 
 - **A deep-shallow and global–local multi-feature fusion network for photometric stereo**    
 Yanru Liu, **Yakun Ju (Corresponding)**, Muwei Jian, Feng Gao, Yuan Rao, Yeqi Hu, Junyu Dong    

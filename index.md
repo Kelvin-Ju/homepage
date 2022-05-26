@@ -22,9 +22,9 @@ I earned my Ph.D. at the Department of Computer Science and Technology, Ocean Un
 
 ### News
 
--  My Ph.D. dissertation, namely ``Deep Learning Models for Non-Lambertian Photometric Stereo (非朗伯光度立体的深度学习模型)'', will be available here soon.
+-  My Ph.D. dissertation, namely ``Deep Learning Models for Non-Lambertian Photometric Stereo (非朗伯光度立体的深度学习模型)'', is available \[[here]([https://www.sciencedirect.com/science/article/abs/pii/S0262885621002730](https://github.com/Kelvin-Ju/homepage/blob/gh-pages/%E9%9D%9E%E6%9C%97%E4%BC%AF%E5%85%89%E5%BA%A6%E7%AB%8B%E4%BD%93%E7%9A%84%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A8%A1%E5%9E%8B-final.pdf))\] .
 
-- T-CSVT x 1, T-IM x 1, IVC x1 accepted from 2021 Dec. to 2022 Apr.
+- T-CSVT x 1, T-IM x 1, IVC x1, JIG (中国图象图形学报) x1 accepted from 2021 Dec. to 2022 Mar.
 
 
 ### Research Experience
@@ -79,8 +79,9 @@ Neurocomputing
 \[CCF C-rank\] \[[DOI](https://www.sciencedirect.com/science/article/abs/pii/S092523121931358X)\]  
 
 
-- **MASR-PSN：低分光度立体图像的高分法向重建深度学习模型 (MASR-PSN: Deep learning model for high-resolution surface normals reconstruction by low-resolution photometric stereo images)**    
-**举雅琨 (Yakun Ju)**, 蹇木伟 (Muwei Jian), 饶源 (Yuan Rao), 张述 (Shu Zhang), 高峰 (Feng Gao), 董军宇 (Junyu Dong)    
+- **MASR-PSN：低分光度立体图像的高分法向重建深度学习模型   
+(MASR-PSN: Deep learning model for high-resolution surface normals reconstruction by low-resolution photometric stereo images)**    
+**Yakun Ju**, Muwei Jian, Yuan Rao, Shu Zhang, Feng Gao, Junyu Dong    
 中国图象图形学报 (Journal of Image and Graphics, JIG) 
 \[CCF B-rank中文\]  \[已收录\]  
 

@@ -18,13 +18,13 @@
 
 ### Biography
 
-I earned my Ph.D. at the Department of Computer Science and Technology, Ocean University of China, supervised by Prof. [Junyu Dong](http://ai-ouc.cn/faculty/dongjy.html), in 2022 (successive master-doctor program). Before that, I earned my B.Sc. in Sichuan University, in 2016. My research interests focus on Image Processing, Computer Vision, Computational Photography, and Deep Learning. **If you want to cooperate with me, kindly contact me via E-mail.**
+I earned my Ph.D. at the Department of Computer Science and Technology, Ocean University of China, supervised by Prof. [Junyu Dong](http://ai-ouc.cn/faculty/dongjy.html), in 2022 (successive master-doctor program). Before that, I earned my B.Sc. in Sichuan University, in 2016. My research interests focus on Image Processing, Low-level Computer Vision, Computational Photography, and Deep Learning. **If you want to cooperate with me, kindly contact me via E-mail.**
 
 ### News
 
--  My Ph.D. dissertation, namely ``Deep Learning Models for Non-Lambertian Photometric Stereo (非朗伯光度立体的深度学习模型)'', is available [HERE](https://github.com/Kelvin-Ju/homepage/blob/gh-pages/%E9%9D%9E%E6%9C%97%E4%BC%AF%E5%85%89%E5%BA%A6%E7%AB%8B%E4%BD%93%E7%9A%84%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A8%A1%E5%9E%8B-final.pdf).
+-  My Ph.D. dissertation, namely ``Deep Learning Models for Non-Lambertian Photometric Stereo (非朗伯光度立体的深度学习模型)'', is available [here](https://github.com/Kelvin-Ju/homepage/blob/gh-pages/%E9%9D%9E%E6%9C%97%E4%BC%AF%E5%85%89%E5%BA%A6%E7%AB%8B%E4%BD%93%E7%9A%84%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A8%A1%E5%9E%8B-final.pdf).
 
-- T-CSVT x 1, T-IM x 1, IVC x1, JIG (中国图象图形学报) x1 accepted from 2021 Dec. to 2022 Mar.
+- T-CSVT x 1, T-IM x 1, IVC x1, JIG (中国图象图形学报) x1 accepted from 2021 Dec. to 2022 May.
 
 
 ### Research Experience

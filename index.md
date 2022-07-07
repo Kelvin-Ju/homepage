@@ -18,10 +18,9 @@
 
 ### Biography
 
-I earned my Ph.D. at the Department of Computer Science and Technology, Ocean University of China, supervised by Prof. [Junyu Dong](http://ai-ouc.cn/faculty/dongjy.html), in 2022 (successive master-doctor program). Before that, I earned my B.Sc. in Sichuan University, in 2016. My research interests focus on Image Processing, Low-level Computer Vision, Computational Photography, and Deep Learning. **If you want to cooperate with me, kindly contact me via E-mail.**
+I am now a Postdoctoral Researcher at the Department of Electronic and Information Engineering, The Hong Kong Polytechnic University,  supervised by Prof. [Kenneth Kin-Man Lam](http://www.eie.polyu.edu.hk/~enkmlam/) (*SrM IEEE*). I earned my Ph.D. at the Department of Computer Science and Technology, Ocean University of China, supervised by Prof. [Junyu Dong](http://ai-ouc.cn/faculty/dongjy.html), in 2022 (successive master-doctor program). Before that, I earned my B.Sc. in Sichuan University, in 2016. My research interests focus on Image Processing, Low-level Computer Vision, Computational Photography, and Deep Learning. **If you want to cooperate with me, kindly contact me via E-mail.**
 
 ### News
-
 -  My Ph.D. dissertation, namely "Deep Learning Models for Non-Lambertian Photometric Stereo (非朗伯光度立体的深度学习模型)", is available [here](https://github.com/Kelvin-Ju/homepage/blob/gh-pages/%E9%9D%9E%E6%9C%97%E4%BC%AF%E5%85%89%E5%BA%A6%E7%AB%8B%E4%BD%93%E7%9A%84%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A8%A1%E5%9E%8B-final.pdf).
 
 - T-CSVT x 1, T-IM x 1, IVC x1, JIG (中国图象图形学报) x1 accepted from 2021 Dec. to 2022 May.
@@ -29,6 +28,7 @@ I earned my Ph.D. at the Department of Computer Science and Technology, Ocean Un
 
 ### Research Experience
 <!-- *2021.  Dec. – 2022.  Dec.* (Expected): CSC Joint Training Ph.D. at the School of Electronics and Computer Science (ECS), **University of Southampton**, supervised by Prof. [Sheng Chen](https://www.ecs.soton.ac.uk/people/sqc?_gl=1*1a7ri6*_ga*MTM0MDEyODgzOS4xNjMxMDgyMDUx*_ga_51YK64STMR*MTYzMzE2MzI2NC4zLjEuMTYzMzE2MzQzMi41Mg..#research) (*FIEEE, FREng*).<img src="https://github.com/Kelvin-Ju/homepage/blob/gh-pages/home1.jpg?raw=true" width="100%">    -->
+- *2022.  Sept. –  Now.*: Postdoctoral Researcher at the Department of Electronic and Information Engineering (EIE), **The Hong Kong Polytechnic University**, supervised by Prof. [Kenneth Kin-Man Lam](http://www.eie.polyu.edu.hk/~enkmlam/) (*SrM IEEE*).
 
 - *2021.  Jan. – 2021.  Jul.*: Research Assistant at the Department of Electronic and Information Engineering (EIE), **The Hong Kong Polytechnic University**, supervised by Prof. [Kenneth Kin-Man Lam](http://www.eie.polyu.edu.hk/~enkmlam/) (*SrM IEEE*).
 
@@ -128,9 +128,9 @@ Granted invention patent in China, 2021106623438
 
 ### Under review 
 - **First Author or Corresponding Author**   
-IJCV, T-IP, ACM MM
+IJCV, T-IP
 - **Co-author**   
-T-IM, T-CSVT, ACM MM
+T-IM, T-CSVT
 
 - **Patents**   
 4 patents are under review.

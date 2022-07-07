@@ -3,7 +3,7 @@
 <table border="0">
   <tr>
     <td width="25%">
-      <img src="https://s3.bmp.ovh/imgs/2022/03/f090ed19566fdd0f.jpg" width="100%">   
+      <img src="https://s3.bmp.ovh/imgs/2022/03/f090ed19566fdd0f.jpg" width="125%">   
     </td>
     <td width="75%">
       <p><b>Ph.D., Postdoctoral Fellow </b></p>

@@ -30,7 +30,7 @@ I am now a Postdoctoral Fellow at the Department of Electronic and Information E
 <!-- *2021.  Dec. – 2022.  Dec.* (Expected): CSC Joint Training Ph.D. at the School of Electronics and Computer Science (ECS), **University of Southampton**, supervised by Prof. [Sheng Chen](https://www.ecs.soton.ac.uk/people/sqc?_gl=1*1a7ri6*_ga*MTM0MDEyODgzOS4xNjMxMDgyMDUx*_ga_51YK64STMR*MTYzMzE2MzI2NC4zLjEuMTYzMzE2MzQzMi41Mg..#research) (*FIEEE, FREng*).<img src="https://github.com/Kelvin-Ju/homepage/blob/gh-pages/home1.jpg?raw=true" width="100%">    -->
 - *2022.  Aug. –  Now.*: Postdoctoral Researcher at the Department of Electronic and Information Engineering (EIE), **The Hong Kong Polytechnic University**, supervised by Prof. [Kenneth Kin-Man Lam](http://www.eie.polyu.edu.hk/~enkmlam/) (*SrM IEEE*).
 
-- *2021.  Jan. – 2021.  Jul.*: Research Assistant at the Department of Electronic and Information Engineering (EIE), **The Hong Kong Polytechnic University**, supervised by Prof. [Kenneth Kin-Man Lam](http://www.eie.polyu.edu.hk/~enkmlam/) (*SrM IEEE*).
+- *2021.  Jan. – 2021.  Jul.*: Research Assistant at the Department of Electronic and Information Engineering (EIE) / the Department of Computing (COMP), **The Hong Kong Polytechnic University**, supervised by Prof. [Kenneth Kin-Man Lam](http://www.eie.polyu.edu.hk/~enkmlam/) (*SrM IEEE*).
 
 - *2020. Sept. – 2020. Dec.*: Visiting Ph.D. student (Remote) at the WangXuan Institute of Computer Technology, **Peking University**, supervised by Prof. [Yuxin Peng](http://59.108.48.34/tiki/pengyuxin/) (*SrM IEEE*).
 

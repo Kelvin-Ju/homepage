@@ -131,9 +131,9 @@ Granted invention patent in China, 2021106623438
 
 ### Under review 
 - **First Author or Corresponding Author**   
-IJCV, T-IP
+IJCV, T-IP, T-MM
 - **Co-author**   
-T-IM, T-CSVT
+T-IM, T-CSVT, AAAI
 
 - **Patents**   
 4 patents are under review.
@@ -160,5 +160,5 @@ T-IM, T-CSVT
 - 2017 Goers Acoustic Scholarship (歌尔声学奖学金)
 
 
-#### Latest updated on 2022. Jul
+#### Latest updated on 2022. Aug.
 

@@ -26,7 +26,7 @@ My research interests focus on Image Processing, Low-level Computer Vision, Comp
 ### News
 -  My Ph.D. dissertation, namely "Deep Learning Models for Non-Lambertian Photometric Stereo (非朗伯光度立体的深度学习模型)", is available [here](https://github.com/Kelvin-Ju/homepage/blob/gh-pages/%E9%9D%9E%E6%9C%97%E4%BC%AF%E5%85%89%E5%BA%A6%E7%AB%8B%E4%BD%93%E7%9A%84%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A8%A1%E5%9E%8B-final.pdf).
 
-- T-CSVT x 1, T-IM x 1, IVC x1, JIG (中国图象图形学报) x1 accepted from 2022 Jan. to 2022 Jul.
+- IJCV x 1, T-CSVT x 1, T-IM x 1, IVC x1, JIG (中国图象图形学报) x1 accepted from 2022 Jan. to 2022 Aug.
 
 
 ### Research Experience
@@ -56,6 +56,11 @@ In CCF-中国智能机器人学术年会, Qingdao, China, 2021, Dec.
 ### Mainly Publications   
 
 #### Academic Journals
+- **NormAttention-PSN: A High-frequency Region Enhanced Photometric Stereo Network with Normalized Attention**  
+**Yakun Ju**, Boxin Shi, Muwei Jian, Lin Qi, Junyu Dong, Kin-Man Lam  
+International Journal of Computer Vision (*IJCV*)
+\[CCF A-rank\] \[DOI coming soon\]
+
 - **Recovering Surface Normal and Arbitrary Images: A Dual Regression Network for Photometric Stereo**  
 **Yakun Ju**, Junyu Dong, Sheng Chen  
 IEEE Transactions on Image Processing (*T-IP*)   
@@ -131,7 +136,7 @@ Granted invention patent in China, 2021106623438
 
 ### Under review 
 - **First Author or Corresponding Author**   
-IJCV, T-IP, T-MM
+T-IP, T-MM
 - **Co-author**   
 T-IM, T-CSVT, AAAI
 

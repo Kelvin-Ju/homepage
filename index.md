@@ -18,7 +18,7 @@
 
 ### Biography
 
-I am now a Postdoctoral Fellow at the Department of Electronic and Information Engineering, The Hong Kong Polytechnic University,  working  Prof. [Kenneth Kin-Man Lam](http://www.eie.polyu.edu.hk/~enkmlam/). I earned my Ph.D. at the Department of Computer Science and Technology, Ocean University of China, supervised by Prof. [Junyu Dong](http://ai-ouc.cn/faculty/dongjy.html), in Jun. 2022 (successive master-doctor program). Before that, I earned my B.Sc. in Sichuan University, in 2016.
+I am now a Postdoctoral Fellow at the Department of Electronic and Information Engineering, The Hong Kong Polytechnic University,  working with Prof. [Kenneth Kin-Man Lam](http://www.eie.polyu.edu.hk/~enkmlam/). I earned my Ph.D. at the Department of Computer Science and Technology, Ocean University of China, supervised by Prof. [Junyu Dong](http://ai-ouc.cn/faculty/dongjy.html), in Jun. 2022 (successive master-doctor program). Before that, I earned my B.Sc. in Sichuan University, in 2016.
 
 
 My research interests focus on Image Processing, Low-level Computer Vision, Computational Photography, and Deep Learning. **If you want to cooperate with me, kindly contact me via E-mail.**

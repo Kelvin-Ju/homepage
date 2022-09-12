@@ -26,7 +26,7 @@ My research interests focus on Image Processing, Low-level Computer Vision, Comp
 ### News
 -  My Ph.D. dissertation, namely "Deep Learning Models for Non-Lambertian Photometric Stereo (非朗伯光度立体的深度学习模型)", is available [here](https://github.com/Kelvin-Ju/homepage/blob/gh-pages/%E9%9D%9E%E6%9C%97%E4%BC%AF%E5%85%89%E5%BA%A6%E7%AB%8B%E4%BD%93%E7%9A%84%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A8%A1%E5%9E%8B-final.pdf).
 
-- IJCV x 1, T-CSVT x 1, T-IM x 1, IVC x1, JIG (中国图象图形学报) x1 accepted from 2022 Jan. to 2022 Aug.
+- IJCV x 1, T-IM x 1, IVC x1, JIG (中国图象图形学报) x1 accepted from 2022 Mar. to 2022 Aug.
 
 
 ### Research Experience
@@ -106,7 +106,7 @@ IEEE Transactions on Circuits and Systems for Video Technology (*T-CSVT*)
 - **Learning General Feature Descriptor for Visual Measurement with Hierarchical View Consistency**    
 Yuan Rao, Jian Yang,**Yakun Ju**, Cong Li, Eric Rigall, Hao Fan, Junyu Dong    
 IEEE Transactions on Instrumentation and Measurement  (*T-IM*)  
-\[[DOI](https://ieeexplore.ieee.org/abstract/document/9761834/)\] 
+\[[DOI]([https://ieeexplore.ieee.org/abstract/document/9761834/](https://ieeexplore.ieee.org/abstract/document/9301860)\] 
 
 #### Conference Proceedings
 
@@ -114,6 +114,11 @@ IEEE Transactions on Instrumentation and Measurement  (*T-IM*)
 **Yakun Ju**, Kin-Man Lam, Yang Chen, Lin Qi, Junyu Dong   
 Twenty-Ninth International Joint Conference on Artificial Intelligence (*IJCAI 2020*)   
 \[CCF A-rank\]  \[[DOI](https://www.ijcai.org/Proceedings/2020/0097)\] \[[PDF](https://github.com/Kelvin-Ju/homepage/blob/gh-pages/IJCAI2020.pdf)\]
+
+- **Learning photometric stereo via manifold-based mapping**    
+**Yakun Ju**, Muwei Jian, Junyu Dong, Kin-Man Lam   
+IEEE International Conference on Visual Communications and Image Processing (*IEEE VCIP 2020*)   
+\[CCF A-rank\]  \[[DOI](https://www.ijcai.org/Proceedings/2020/0097)\] 
 
 (See full list in [Google Scholar](https://scholar.google.com/citations?user=hE10pMYAAAAJ&hl))
 
@@ -145,10 +150,14 @@ T-IM, T-CSVT, AAAI
 
 ### Reviewer
 - International Journal of Computer Vision
+- IEEE Transactions on Image Processing
 - IEEE Transactions on Industrial Electronics
+- -Pattern Recognition
+- Knowledge based systems
 - IEEE Access
 - Scientific Report
 - Neurocomputing
+- -Photonics
 
 
 

@@ -118,7 +118,7 @@ Twenty-Ninth International Joint Conference on Artificial Intelligence (*IJCAI 2
 - **Learning photometric stereo via manifold-based mapping**    
 **Yakun Ju**, Muwei Jian, Junyu Dong, Kin-Man Lam   
 IEEE International Conference on Visual Communications and Image Processing (*IEEE VCIP 2020*)   
-\[CCF A-rank\]  \[[DOI](https://www.ijcai.org/Proceedings/2020/0097)\] 
+\[[DOI](https://www.ijcai.org/Proceedings/2020/0097)\] 
 
 (See full list in [Google Scholar](https://scholar.google.com/citations?user=hE10pMYAAAAJ&hl))
 

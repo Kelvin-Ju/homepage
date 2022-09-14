@@ -39,6 +39,11 @@ My research interests focus on Image Processing, Low-level Computer Vision, Comp
 
 ### Invited Talk
 
+- **数据驱动的光度立体三维重建技术**   
+College of Computer Science and Software Engineering, Shenzhen University, Sept. 2022.   
+\[[Website]([http://valser.org/2021/#/program](https://mp.weixin.qq.com/s/tsap7LXV9OImtOhiqIoF5w))\] 
+
+
 - **Research on Data-Driven Photometric Stereo (数据驱动光度立体相关进展研究)**   
 In 2021 IJCAI-SAIA Young Elite Symposium (*IJCAI-SAIA YES*), Shanghai, China, 2021, July.   
 \[[Website](http://www.ijcai-saia-yes.org.cn/)\]  \[[News](https://mp.weixin.qq.com/s/K67lmIvbp1Ojy26MSnStSw)\]   

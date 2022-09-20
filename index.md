@@ -9,7 +9,7 @@
       <p><b>Ph.D., Postdoctoral Fellow </b></p>
       <p><b>Department of Electronic and Information Engineering (EIE)</b></p>
       <p><b>The Hong Kong Polytechnic University</b></p>
-      <p>juyakun=AT=stu.ouc.edu.cn, yakun.ju=AT=hotmail.com </p>
+      <p>yaku.ju@polyu.edu.hk, yakun.ju=AT=hotmail.com </p>
     </td>
   </tr>
 </table>

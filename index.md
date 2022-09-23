@@ -9,7 +9,7 @@
       <p><b>Ph.D., Postdoctoral Fellow </b></p>
       <p><b>Department of Electronic and Information Engineering (EIE)</b></p>
       <p><b>The Hong Kong Polytechnic University</b></p>
-      <p>yaku.ju@polyu.edu.hk, yakun.ju=AT=hotmail.com </p>
+      <p>yaku.ju=AT=polyu.edu.hk, yakun.ju=AT=hotmail.com </p>
     </td>
   </tr>
 </table>
@@ -167,7 +167,7 @@ T-IM, T-CSVT, AAAI
 
 
 ### Scholarships & Honors
-
+- 2022 ACM Qingdao Outstanding Doctoral Dissertation Award (ACM Qingdao 优秀博士论文奖)
 - 2022 Outstanding Graduates of Shandong Province (山东省优秀毕业生)
 - 2021 Inspur Scholarship (浪潮奖学金)
 - 2021 Excellent postgraduate student (优秀研究生)

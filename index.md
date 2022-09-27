@@ -63,7 +63,7 @@ In CCF-中国智能机器人学术年会, Qingdao, China, 2021, Dec.
 #### Academic Journals
 - **NormAttention-PSN: A High-frequency Region Enhanced Photometric Stereo Network with Normalized Attention**  
 **Yakun Ju**, Boxin Shi, Muwei Jian, Lin Qi, Junyu Dong, Kin-Man Lam  
-International Journal of Computer Vision (*IJCV*)
+International Journal of Computer Vision (*IJCV*)  
 \[CCF A-rank\] \[[DOI](https://link.springer.com/article/10.1007/s11263-022-01684-8)\] \[[PDF](https://github.com/Kelvin-Ju/homepage/blob/gh-pages/IJCV.pdf)\]
 
 - **Recovering Surface Normal and Arbitrary Images: A Dual Regression Network for Photometric Stereo**  

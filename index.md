@@ -2,8 +2,8 @@
 
 <table border="0">
   <tr>
-    <td width="25%">
-      <img src="https://static01.imgkr.com/temp/91a70892f4e44abfada13d55e48745ea.jpg" width="125%">   
+    <td width="25%">     
+      <img src="https://s3.bmp.ovh/imgs/2022/03/f090ed19566fdd0f.jpg" width="125%">   
     </td>
     <td width="75%">
       <p><b>Ph.D., Postdoctoral Fellow </b></p>
@@ -111,7 +111,7 @@ IEEE Transactions on Circuits and Systems for Video Technology (*T-CSVT*)
 - **Learning General Feature Descriptor for Visual Measurement with Hierarchical View Consistency**    
 Yuan Rao, Jian Yang,**Yakun Ju**, Cong Li, Eric Rigall, Hao Fan, Junyu Dong    
 IEEE Transactions on Instrumentation and Measurement  (*T-IM*)  
-\[[DOI](https://ieeexplore.ieee.org/abstract/document/9761834/](https://ieeexplore.ieee.org/abstract/document/9301860)\] 
+\[[DOI](https://ieeexplore.ieee.org/abstract/document/9301860)\] 
 
 #### Conference Proceedings
 

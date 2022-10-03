@@ -106,13 +106,13 @@ Image and Vision Computing (*IVC*)
 - **3D Hand Pose Estimation from Monocular RGB with Feature Interaction Module**    
 Shaoxiang Guo, Eric Rigall,**Yakun Ju**, Junyu Dong    
 IEEE Transactions on Circuits and Systems for Video Technology (*T-CSVT*)  
-\[CCF B-rank\] \[[DOI](https://ieeexplore.ieee.org/abstract/document/9680673)\] \[[PDF]()\]  
+\[CCF B-rank\] \[[DOI](https://ieeexplore.ieee.org/abstract/document/9680673)\] \[[PDF](https://drive.google.com/file/d/1erTXE1w3Wv2zje9omHmpNH7fS1uxiOeZ/view?usp=sharing)\]  
 
 
 - **Learning General Feature Descriptor for Visual Measurement with Hierarchical View Consistency**    
 Yuan Rao, Jian Yang,**Yakun Ju**, Cong Li, Eric Rigall, Hao Fan, Junyu Dong    
 IEEE Transactions on Instrumentation and Measurement  (*T-IM*)  
-\[[DOI](https://ieeexplore.ieee.org/abstract/document/9301860)\] \[[PDF](https://drive.google.com/file/d/1erTXE1w3Wv2zje9omHmpNH7fS1uxiOeZ/view?usp=sharing)\]  
+\[[DOI](https://ieeexplore.ieee.org/abstract/document/9301860)\] \[[PDF]()\]  
 
 #### Conference Proceedings
 

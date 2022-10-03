@@ -47,7 +47,6 @@ College of Computer Science and Software Engineering, Shenzhen University, Sept.
 - **Research on Data-Driven Photometric Stereo (数据驱动光度立体相关进展研究)**   
 In 2021 IJCAI-SAIA Young Elite Symposium (*IJCAI-SAIA YES*), Shanghai, China, 2021, July.   
 \[[Website](hhttps://mp.weixin.qq.com/s/K67lmIvbp1Ojy26MSnStSw)\]   
-<!-- \[[video](https://www.bilibili.com/video/BV1jh41167JV?from=search&seid=15011617246000243912)\]
 
 - **Recovering Surface Normal and Arbitrary Images: A Dual Regression Network for Photometric Stereo**   
 In 2021 Vision And Learning SEminar, Workshop5: 三维视觉技术-Spotlight (*VALSE 2021*), Hangzhou, China, 2021, Oct.   

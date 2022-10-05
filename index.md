@@ -18,7 +18,9 @@
 
 ### Biography
 
-I am now a Postdoctoral Fellow at the Department of Electronic and Information Engineering, The Hong Kong Polytechnic University,  working with Prof. [Kenneth Kin-Man Lam](http://www.eie.polyu.edu.hk/~enkmlam/). I earned my Ph.D. at the Department of Computer Science and Technology, Ocean University of China, supervised by Prof. [Junyu Dong](http://ai-ouc.cn/faculty/dongjy.html), in Jun. 2022 (successive master-doctor program). Before that, I earned my B.Sc. in Sichuan University, in 2016. I'm also grateful for having collaborated with these inspiring professors: [Boxin Shi](https://cs.pku.edu.cn/info/1085/1889.htm) (PKU), [Huiyu Zhou](https://le.ac.uk/people/huiyu-zhou) (UL), [Sheng Chen](https://www.southampton.ac.uk/people/5wy8nv/professor-sheng-chen) (Soton), *etc*.
+I am now a Postdoctoral Fellow at the Department of Electronic and Information Engineering, The Hong Kong Polytechnic University,  working with Prof. [Kenneth Kin-Man Lam](http://www.eie.polyu.edu.hk/~enkmlam/). I earned my Ph.D. at the Department of Computer Science and Technology, Ocean University of China, supervised by Prof. [Junyu Dong](http://ai-ouc.cn/faculty/dongjy.html), in Jun. 2022 (successive master-doctor program). Before that, I earned my B.Sc. in Sichuan University, in 2016. 
+
+I'm also grateful for having collaborated with these inspiring professors: [Boxin Shi](https://cs.pku.edu.cn/info/1085/1889.htm) (PKU), [Huiyu Zhou](https://le.ac.uk/people/huiyu-zhou) (UL), [Sheng Chen](https://www.southampton.ac.uk/people/5wy8nv/professor-sheng-chen) (Soton), [Wuyuan Xie](https://sites.google.com/site/wuyuanxie/) (SZU), *etc*.
 
 My research interests focus on Image Processing, Low-level Computer Vision, Computational Photography, and Deep Learning. **If you want to cooperate with me, kindly contact me via E-mail.**
 

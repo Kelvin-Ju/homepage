@@ -1,4 +1,4 @@
-## Yakun Ju  (举雅琨)
+## Yakun Ju  (舉雅琨)
 
 <table border="0">
   <tr>

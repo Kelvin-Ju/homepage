@@ -1,5 +1,5 @@
 ## Yakun Ju  (舉雅琨)
-** Please see my new homepage at:  [NewHomepage](https://kelvin-ju.github.io/yakunju/) **  
+**Please see my new homepage at:  [NewHomepage](https://kelvin-ju.github.io/yakunju/)**  
 
 **(https://kelvin-ju.github.io/yakunju/)**
 

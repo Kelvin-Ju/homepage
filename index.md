@@ -1,6 +1,9 @@
 ## Yakun Ju  (舉雅琨)
+** Please see my new homepage at:  [NewHomepage](https://kelvin-ju.github.io/yakunju/) **
+(https://kelvin-ju.github.io/yakunju/)
 
-<table border="0">
+
+<!-- <table border="0">
   <tr>
     <td width="25%">     
       <img src="https://i.postimg.cc/GpFFQnyJ/666.jpg" width="125%">
@@ -27,12 +30,12 @@ My research interests focus on Image Processing, Low-level Computer Vision, Comp
 ### News
 -  My Ph.D. dissertation, namely "Deep Learning Models for Non-Lambertian Photometric Stereo (非朗伯光度立体的深度学习模型)", is available [here](https://drive.google.com/file/d/1epHv45nGU6vCUkRO8RSgFYq5QGY4zTGx/view).
 
-- IJCV x 1, T-IM x 1, IVC x1, JIG (中国图象图形学报) x1 accepted from 2022 Mar. to 2022 Sept.
+- IJCV x 1, T-IM x 1, IVC x1, JIG (中国图象图形学报) x1 accepted from 2022 Mar. to 2022 Sept.-->
 
 
 ### Research Experience
 <!-- *2021.  Dec. – 2022.  Dec.* (Expected): CSC Joint Training Ph.D. at the School of Electronics and Computer Science (ECS), **University of Southampton**, supervised by Prof. [Sheng Chen](https://www.ecs.soton.ac.uk/people/sqc?_gl=1*1a7ri6*_ga*MTM0MDEyODgzOS4xNjMxMDgyMDUx*_ga_51YK64STMR*MTYzMzE2MzI2NC4zLjEuMTYzMzE2MzQzMi41Mg..#research) (*FIEEE, FREng*).   -->
-- *2022.  Sept. –  Now.*: Postdoctoral Researcher at the Department of Electronic and Information Engineering (EIE), **The Hong Kong Polytechnic University**, supervised by Prof. [Kenneth Kin-Man Lam](http://www.eie.polyu.edu.hk/~enkmlam/) (*SrMIEEE*).
+<!-- - *2022.  Sept. –  Now.*: Postdoctoral Researcher at the Department of Electronic and Information Engineering (EIE), **The Hong Kong Polytechnic University**, supervised by Prof. [Kenneth Kin-Man Lam](http://www.eie.polyu.edu.hk/~enkmlam/) (*SrMIEEE*).
 
 - *2021.  Jan. – 2021.  Jul.*: Research Assistant at the Department of Electronic and Information Engineering (EIE) / the Department of Computing (COMP), **The Hong Kong Polytechnic University**, supervised by Prof. [Kenneth Kin-Man Lam](http://www.eie.polyu.edu.hk/~enkmlam/) (*SrMIEEE*) / [Song Guo](https://www.polyu.edu.hk/comp/people/academic-staff/prof-guo-song/) (*FIEEE*).
 
@@ -187,5 +190,5 @@ T-IM, T-CSVT, AAAI
 - 2017 Goers Acoustic Scholarship (歌尔声学奖学金)
 
 
-#### Latest updated on 2022. Sept.
+#### Latest updated on 2022. Sept.-->
 
